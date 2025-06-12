@@ -30,7 +30,7 @@ This project can serve as a great starting point for beginners who want to under
 
 In conclusion, the Interactive Quiz Web Application is a perfect demonstration of how fundamental web technologies can be combined to create something both educational and engaging. It balances function and design, provides a smooth user journey, and showcases the power of HTML, CSS, and JavaScript in building interactive browser-based applications.
 
-# OUTPUT: 
+OUTPUT: 
 ![Image](https://github.com/user-attachments/assets/f3c0975c-233d-4c29-8aa2-df387af1348c)
 
 ![Image](https://github.com/user-attachments/assets/035a814a-d9ee-478a-b0d2-09104d638b2f)

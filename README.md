@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTHOSH
 
-*DESCRIPTION*:The Interactive Quiz Web Application is a front-end project built using the core web technologies—HTML, CSS, and JavaScript. This quiz app provides a clean, user-friendly interface for answering multiple-choice questions in a structured and interactive way. The goal of this project is to demonstrate fundamental front-end development skills while delivering a functional and visually engaging application.
+*DESCRIPTION*: The Interactive Quiz Web Application is a front-end project built using the core web technologies—HTML, CSS, and JavaScript. This quiz app provides a clean, user-friendly interface for answering multiple-choice questions in a structured and interactive way. The goal of this project is to demonstrate fundamental front-end development skills while delivering a functional and visually engaging application.
 
 The user interface is designed with a modern and minimal aesthetic, using gradient backgrounds and soft shadows to create a smooth visual experience. The quiz content is presented inside a centered container, which clearly displays each question and its corresponding multiple-choice answers. The layout is responsive and works seamlessly across different screen sizes, ensuring a consistent user experience on desktops, laptops, and other devices.
 
@@ -33,6 +33,8 @@ In conclusion, the Interactive Quiz Web Application is a perfect demonstration o
 *OUTPUT*: ![Image](https://github.com/user-attachments/assets/f3c0975c-233d-4c29-8aa2-df387af1348c)
 
 ![Image](https://github.com/user-attachments/assets/035a814a-d9ee-478a-b0d2-09104d638b2f)
+
+![Image](https://github.com/user-attachments/assets/964deae5-4d67-4c07-926d-8e408fa7fa91)
 
 
 

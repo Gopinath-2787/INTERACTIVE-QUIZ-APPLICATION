@@ -1,0 +1,89 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(135deg, #271cc2, #ebbfce);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.quiz-container {
+  background: rgba(152, 155, 134, 0.1);
+  backdrop-filter: blur(10px);
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(143, 23, 23, 0.2);
+  width: 400px;
+  color: #000;
+}
+
+.header {
+  display: inline;
+  justify-content: space-between;
+  text-align: center;
+}
+
+
+
+.question {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 20px 0;
+  text-align: center;
+  color: rgb(64, 5, 240);
+}
+
+.options button {
+  width: 100%;
+  padding: 12px;
+  margin: 10px 0;
+  border: none;
+  border-radius: 8px;
+  background-color: white;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s ease-in-out;
+}
+
+.options button.correct {
+  background-color: green;
+  color: white;
+}
+.options button.correct:hover{
+    background-color: green;
+    color: #000;
+}
+
+.options button.wrong {
+  background-color: red;
+  color: white;
+}
+.options button.wrong:hover{
+    background-color: red;
+    color: #000;
+}
+
+.options button:hover {
+  background-color:white;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 15px;
+}
+
+#next-btn {
+  background-color: tomato;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+#next-btn:hover{
+    background-color: red;
+}
+

@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTHOSH
 
-DESCRIPTION:The Interactive Quiz Web Application is a front-end project built using the core web technologies—HTML, CSS, and JavaScript. This quiz app provides a clean, user-friendly interface for answering multiple-choice questions in a structured and interactive way. The goal of this project is to demonstrate fundamental front-end development skills while delivering a functional and visually engaging application.
+*DESCRIPTION*:The Interactive Quiz Web Application is a front-end project built using the core web technologies—HTML, CSS, and JavaScript. This quiz app provides a clean, user-friendly interface for answering multiple-choice questions in a structured and interactive way. The goal of this project is to demonstrate fundamental front-end development skills while delivering a functional and visually engaging application.
 
 The user interface is designed with a modern and minimal aesthetic, using gradient backgrounds and soft shadows to create a smooth visual experience. The quiz content is presented inside a centered container, which clearly displays each question and its corresponding multiple-choice answers. The layout is responsive and works seamlessly across different screen sizes, ensuring a consistent user experience on desktops, laptops, and other devices.
 
@@ -29,4 +29,6 @@ From a development perspective, the project highlights essential JavaScript skil
 This project can serve as a great starting point for beginners who want to understand how real-world web applications work without relying on external libraries or backend services. It is also easily extendable—developers can add more questions, shuffle them randomly, or organize them by categories. The quiz logic is modular and separated cleanly, making future enhancements or customizations straightforward.
 
 In conclusion, the Interactive Quiz Web Application is a perfect demonstration of how fundamental web technologies can be combined to create something both educational and engaging. It balances function and design, provides a smooth user journey, and showcases the power of HTML, CSS, and JavaScript in building interactive browser-based applications.
+
+*OUTPUT*: ![Image](https://github.com/user-attachments/assets/f3c0975c-233d-4c29-8aa2-df387af1348c)
 
